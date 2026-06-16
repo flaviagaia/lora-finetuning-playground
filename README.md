@@ -130,4 +130,13 @@ isolate LoRA's **mechanics**, not to reproduce a Transformer.
 
 ---
 
+## Referências científicas (crédito aos autores)
+
+- Hu et al. (2021/2022). LoRA: Low-Rank Adaptation of Large Language Models. ICLR (arXiv:2106.09685).
+- Houlsby et al. (2019). Parameter-Efficient Transfer Learning for NLP (adapters). ICML.
+
+Este repositório é uma reimplementação didática e offline dessas ideias.
+
+---
+
 Part of my LinkedIn series on efficient LLMs → [Flávia Gaia](https://www.linkedin.com/in/flavia-gaia/)
